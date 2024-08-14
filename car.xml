@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <name>Ford Mustang</name>
+        <model>2024</model>
+        <price>45000</price>
+        <description>A classic American muscle car with a powerful engine.</description>
+        <image>images/ford_mustang.jpg</image>
+    </car>
+    <car>
+        <name>Chevrolet Camaro</name>
+        <model>2024</model>
+        <price>43000</price>
+        <description>Sporty design with a high-performance engine.</description>
+        <image>images/chevrolet_camaro.jpg</image>
+    </car>
+    <car>
+        <name>Tesla Model S</name>
+        <model>2024</model>
+        <price>90000</price>
+        <description>Electric luxury sedan with cutting-edge technology.</description>
+        <image>images/tesla_model_s.jpg</image>
+    </car>
+    <car>
+        <name>BMW 3 Series</name>
+        <model>2024</model>
+        <price>55000</price>
+        <description>Luxury sedan with superior driving dynamics.</description>
+        <image>images/bmw_3_series.jpg</image>
+    </car>
+</cars>
